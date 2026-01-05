@@ -8,11 +8,10 @@ st.set_page_config(page_title="Virtual Paint (Cloud Preview)", layout="centered"
 st.title("Virtual Paint 🎨")
 
 st.markdown("""
-This is the **cloud preview** of my OpenCV Virtual Paint project.
+This is the **cloud preview** of my Virtual Paint project.
 
 - It involves real-time webcam to demonstrate air drawing.
-- **Cloud version** cannot stream webcam video, so it demonstrates
-  the **color detection pipeline** on a captured image.
+- **Cloud version** demonstrates **color detection pipeline** on a captured image.
 """)
 
 # -------------------- CLOUD DEMO --------------------
