@@ -13,7 +13,7 @@ This is the **cloud preview** of my Virtual Paint project.
 - Real-time webcam to demonstrate color based object detection & masking
 - **Cloud version** involves **color detection pipeline** on a captured image.
 """)
-st.write("Try with a yellow object!")
+st.info("Try with a yellow object!")
 
 
 # -------------------- CLOUD DEMO --------------------
