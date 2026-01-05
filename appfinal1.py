@@ -10,8 +10,8 @@ st.title("Virtual Paint 🎨")
 st.markdown("""
 This is the **cloud preview** of my OpenCV Virtual Paint project.
 
-- **Local version** runs with real-time webcam access and supports air drawing.
-- **Cloud version (this page)** cannot stream webcam video, so it demonstrates
+- It involves real-time webcam to demonstrate air drawing.
+- **Cloud version** cannot stream webcam video, so it demonstrates
   the **color detection pipeline** on a captured image.
 """)
 
