@@ -10,10 +10,11 @@ st.title("Virtual Paint 🎨")
 st.markdown("""
 This is the **cloud preview** of my Virtual Paint project.
 
-- It involves real-time webcam to demonstrate color based object detection & masking
-- **Cloud version** demonstrates **color detection pipeline** on a captured image.
+- Real-time webcam to demonstrate color based object detection & masking
+- **Cloud version** involves **color detection pipeline** on a captured image.
 """)
-#TRY WITH A YELLOW OBJECT!
+st.write("Try with a yellow object!")
+
 
 # -------------------- CLOUD DEMO --------------------
 st.subheader("Color Detection Demo (Cloud-Safe)")
